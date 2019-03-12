@@ -1,16 +1,13 @@
 # Site settings
-title: LiXizhi's Personal Website
-email: lixizhi@yeah.net
-description: Xizhi's Ideas & Blogs
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+title: ZeroToOne
+email: qorwlgns11123@gmail.com
+description: Peter's 기술 개발 블로그
+# > # 안녕하세요.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username: LiXizhi
+
+github_username: qorwlgns11123
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
