@@ -6,6 +6,6 @@ layout: frontpage
 
 Student, AI, Start-up, IE
 
-Nice to meet you
+Nice to meet you!
 
 [github link](http://https://qorwlgns11123.github.io/)
